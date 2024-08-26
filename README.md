@@ -3,5 +3,5 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/tykfyr" target="_blank">LinkedIn</a> &middot 
-  <a href="https://twitter.com/tykfyr" target="_blank">Twitter</a>
+  <a href="https://renekirk.com/" target="_blank">renekirk.com</a>
 </p>
