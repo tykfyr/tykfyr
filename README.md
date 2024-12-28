@@ -3,6 +3,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/tykfyr" target="_blank">LinkedIn</a> &middot 
-  <a href="https://renekirk.com/" target="_blank">renekirk.com</a>
+  <a href="https://renekirk.com/" target="_blank">renekirk.com</a> &middtot; 
+  <a href="https://sleepie.dk" target="_blank" title="Sleepie.dk - god søvn starter her">Sleepie.dk</a>
 </p>
 
