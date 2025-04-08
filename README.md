@@ -1,9 +1,18 @@
-<h1 align="center">Hello World 👋</h1>
-<p align="center">E-commerce (Magento / Shopware) developer</p>
+### Hey, I’m René — builder of tools, breaker of things, occasional fixer.
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/tykfyr" target="_blank">LinkedIn</a> &middot;
-  <a href="https://renekirk.com/" target="_blank">renekirk.com</a> &middot; 
-  <a href="https://sleepie.dk" target="_blank" title="Sleepie.dk - god søvn starter her">Sleepie.dk</a>
-</p>
+Not everything here makes sense — but it made sense when I wrote it. Probably.
 
+- 🛠️ Composer packages I swear I’ll document later  
+- 🧪 Weird experiments (some legal, mostly PHP)  
+- 🐘 Laravel, Magento, Shopware, WordPress and other crimes against humanity  
+- 📦 Stuff that almost works on my machine™
+
+## Projects I keep feeding after midnight
+
+- `tykfyr/openid-connect-php`: OpenID wrangling with duct tape  
+- `tykfyr/cpr-danish-validate`: Because CPR numbers are weird  
+- `tykfyr/ntfy-php`: Push notifications for people who like pain
+
+---
+
+📝 _Last updated while drinking coffee and pretending to refactor something._
